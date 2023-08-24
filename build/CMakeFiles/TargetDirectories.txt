@@ -1,0 +1,3 @@
+/home/artem/cpp_projects/udp_test_china/build/CMakeFiles/udp_test.dir
+/home/artem/cpp_projects/udp_test_china/build/CMakeFiles/edit_cache.dir
+/home/artem/cpp_projects/udp_test_china/build/CMakeFiles/rebuild_cache.dir
